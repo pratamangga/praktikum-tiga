@@ -1,2 +1,2 @@
-# praktikum-tiga
-Tugas 3 Sistem Cerdas
+# Sistem Penilaian Mahasiswa
+Praktikum 3 Sistem Cerdas menggunakan Streamlit
